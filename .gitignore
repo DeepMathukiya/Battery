@@ -1,6 +1,2 @@
-ANN_model.h5
 dataset.xlsx
-DecisionTreeRegressor_model.h5
-RandomForestRegressor_model.h5
-XGBRegressor.h5
-GradientBoostingRegressor_model.h5
+*.h5
